@@ -9,5 +9,8 @@ def find_max_value(array)
     end
     counter += 1
   end
-  max
+  puts max
 end
+
+
+find_max_value([1, 2, 3, 103, 4, 5, 6, 7, 8, 9])
